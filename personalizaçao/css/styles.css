@@ -1,0 +1,117 @@
+body {
+    margin: 50px;
+    background-color: #2a234a;
+}
+
+#minha_foto {
+    
+    height: 100px;
+    height: 100px;
+    border-radius: 20%;
+    border: 5px solid #8d0ba1;
+    float: right;
+    margin-right: 300px;
+}
+  
+  .descricao {
+    margin-left: 10px;
+  }
+  
+  .texto-descricao {
+    float: left; 
+  }
+  
+  .descricao h2 {
+    font-size: 20px;
+    margin-bottom: 5px;
+    color: white;
+    font-family: Arial, sans-serif;
+  }
+  
+  .descricao p {
+    font-size: 14px;
+    color: white;
+    font-family: Arial, sans-serif;
+  }
+  #livro-container {
+    display: inline-block;
+    background-color: white;
+    border-radius: 20%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+  #livro {
+    width: 200px;
+}
+
+.texto-lado {
+    float: right;
+    margin-right: 600px;
+    color: white;
+    font-size: 15px;
+  }
+
+  #links-aprendizado a {
+    color: rgb(223, 123, 243); 
+    text-decoration: none; 
+}
+
+#controle-container {
+    display: inline-block;
+    background-color: white;
+    border-radius: 20%;
+    padding: 10px;
+    margin-top: 20px;
+}
+#controlegame {
+    width: 200px;
+}
+.container-colunas {
+    display: flex;
+  }
+  
+  .texto-lado {
+    color: white;
+    font-size: 15px;
+    margin-left: 20px; /* Ajuste o valor conforme necessário */
+  }
+  
+  .texto-lado h3 {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .texto-lado ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .texto-lado li {
+    font-size: 14px;
+  }
+  .telefone-colunas2 {
+    display: flex;
+}
+#telefone{
+    width: 200px;
+
+}
+  #telefone-container2 {
+    display: inline-block;
+    background-color: white;
+    border-radius: 20%;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.texto-lado2 {
+    color: white;
+    font-size: 15px;
+    margin-left: 20px; /* Ajuste o valor conforme necessário */
+  }
+
+  #links-contato a {
+    color: rgb(223, 123, 243); 
+    text-decoration: none; 
+}
